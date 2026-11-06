@@ -1,0 +1,30 @@
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Machine Learning & Computer Vision weights / large videos
+*.pt
+*.onnx
+*.mp4
+*.avi
+*.mov
+
+# Databases & Environment Variables
+*.db
+*.sqlite3
+.env
+
+# Frontend / Node
+node_modules/
+dist/
+build/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
